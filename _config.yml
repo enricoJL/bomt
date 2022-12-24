@@ -1,16 +1,15 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Enrico J. Lévesque
+longtitle:        Enrico J. Lévesque
+author:           Enrico J. Lévesque
+email:            enrico.levesque@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
-
+  poésie, témoignages et réflexions
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://enricojl.github.io'
+baseurl:          '/'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
