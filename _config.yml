@@ -1,15 +1,15 @@
 # Configurations
 title:            Enrico J. Lévesque
-longtitle:        Enrico J. Lévesque
-author:           Enrico J. Lévesque
+longtitle:        The Book of My Testimony
+author:           The Book of My Testimony - Likening the Book of Mormon
 email:            enrico.levesque@gmail.com
 description: >
-  poésie, témoignages et réflexions
+  A personal testimony of the doings of the Almighty God in my life
 version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://enricojl.github.io'
-baseurl:          '/'
+baseurl:          '/bomt'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
