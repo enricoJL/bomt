@@ -6,8 +6,7 @@ layout: post
 ---
 
 
-A little about myself
--------------
+# A little about myself
 
 I'm a member of The Church of Jesus Christ of Latter-Day Saints. I first met a member of the church when I was 21 years old while visiting Victoria, British Columbia. That's when I heard the story of Joseph Smith for the first time. I later met the missionaries of the church in Montreal and began studying with them. After some time, I desired to be baptized to receive the remission of my sins and become a better man, a disciple of Christ.
 
@@ -15,8 +14,7 @@ I live in the province of Quebec, Canada, and have lived there all my life, exce
 
 During my mission, I started writing down my impressions of the Book of Mormon and sharing some experiences from my life that were related to what I read in the scriptures. I continued writing these thoughts for a while after my mission. These impressions, thoughts, and experiences have been a source of spiritual reinforcement for me. I decided to edit this journal and turn it into a book, which I named The Book of My Testimony.
 
-What is contained in this book?
--------------
+# What is contained in this book?
 
 <!-- need to give more explanation -->
 You will find in this book my personal impressions of the Book of Mormon. I start with the first book of Nephi, who was the first prophet to write in the Book of Mormon. I share many spiritual experiences and thoughts that relate to each verse of the scriptures. It is like a journal and it contains a very personal testimony of the things of God I have seen in my life. It is also a good companion for the study of the Book of Mormon, as it teaches how one person can read and apply the words of the prophets to himself.
@@ -27,8 +25,7 @@ Part II of The Book of My Testimony will be about the second book of Nephi. Thes
 
 The prophet Nephi wrote: 'for I did liken all scriptures unto us, that it might be for our profit and learning' (1 Nephi 19:23). I wrote my words keeping this verse in mind, trying to liken each principle and point of doctrine to myself. It has been a great experience to seek what in my own life could resemble the experiences of the prophet Nephi and his family. The things I have written please my heart and help me feel the Holy Spirit of God. I hope they will have the same effect on you.
 
-How to read this book?
--------------
+# How to read this book?
 
 This book is still in progress. I call it a book because I started it as a book and it may end as such, though it may take other formats along the way. What you can see now is what I have written so far. The continuation of it will be posted on this blog in sections until it is completed. Then we'll see where it takes us. There may be several mistakes and errors since I do my own editing, but please be patient and kind enough to point them out to me. Your comments are more than welcome.
 
