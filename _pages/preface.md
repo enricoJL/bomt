@@ -5,10 +5,6 @@ date: 2022-12-26
 layout: post
 ---
 
-```yaml
-toc:
-    enabled: true
-```
 
 A little about myself
 -------------
