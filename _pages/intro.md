@@ -12,11 +12,7 @@ as an exemple of what you will find in this book
 
 # The title page of the Book of Mormon
 
-<center>
-THE BOOK OF MORMON
-AN ACCOUNT WRITTEN BY
-THE HAND OF MORMON
-</center>
+: THE BOOK OF MORMON AN ACCOUNT WRITTEN BY THE HAND OF MORMON
 
 Like I said earlier, you will find that this book contains a very personal testimony. This is the reason I call it the \emph{Book of My Testimony}. And it has been written by my own hands. Moroni, who wrote the title page of the Book of Mormon, wrote that the book has been written mostly by his father Mormon, even though he wrote the last pages of it. 
 
