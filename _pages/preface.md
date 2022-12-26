@@ -18,7 +18,7 @@ During my mission, I started writing down my impressions of the Book of Mormon a
 What is contained in this book?
 -------------
 
-# need to give more explanation
+<!-- need to give more explanation -->
 You will find in this book my personal impressions of the Book of Mormon. I start with the first book of Nephi, who was the first prophet to write in the Book of Mormon. I share many spiritual experiences and thoughts that relate to each verse of the scriptures. It is like a journal and it contains a very personal testimony of the things of God I have seen in my life. It is also a good companion for the study of the Book of Mormon, as it teaches how one person can read and apply the words of the prophets to himself.
 
 This book is a testimony of truth. I share how I came to believe in the existence of God, how I came to know the Book of Mormon and was convinced of the gospel of Jesus Christ contained within it and in other holy books like the Bible. I share visions and dreams and impressions and revelations that I received to guide me and to comfort me. I try to follow the example of the prophet Nephi and pattern my life after his. I also offer my humble interpretation of what we read in the Book of Mormon, as well as my questions and insights. Essentially, I share my faith, personal beliefs, and experiences with the truth I found by joining The Church of Jesus Christ of Latter-Day Saints and serving my Lord and Savior over the years. It is not a light report, nor is it a heavy study. I am not a scholar; I am just a simple disciple of Christ who thinks it is worth writing his testimony of Christ, whom I love with all my heart, might, mind, and soul.
@@ -30,8 +30,7 @@ The prophet Nephi wrote: 'for I did liken all scriptures unto us, that it might 
 How to read this book?
 -------------
 
-
-This book is in progress. I call it a book because I started it as a book and it may end as such, though it may take other formats along the way. What you can see now is what I have written so far. The continuation of it will be posted on this blog in sections until it is completed. Then we'll see where it takes us. There may be several mistakes and errors since I do my own editing, but please be patient and kind enough to point them out to me. Your comments are more than welcome.
+This book is still in progress. I call it a book because I started it as a book and it may end as such, though it may take other formats along the way. What you can see now is what I have written so far. The continuation of it will be posted on this blog in sections until it is completed. Then we'll see where it takes us. There may be several mistakes and errors since I do my own editing, but please be patient and kind enough to point them out to me. Your comments are more than welcome.
 
 You may want to read this book alongside the Book of Mormon, but it is not absolutely necessary to do so because I quote all the words from the scriptures that you need to understand the context in this book.
 
