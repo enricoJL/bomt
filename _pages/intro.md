@@ -26,7 +26,8 @@ Of course, I don't have the boldness to claim that it is doctrinal for the Churc
 While studying the scriptures and at other times in my life, I have received a number of revelations from God. I am not a prophet for the Church and I don't claim to be a special witness, but I am a witness of God. I desire to express my faith openly and loudly. I hope the reader will benefit from this gift of the Spirit as another modern and personal testimony of the great doings of the Almighty.
 
 > Which is to show unto the remnant of the House of Israel what great things the Lord hath done for their fathers; and that they may know the covenants of the Lord, that they are not cast off forever... (second paragraph)
-> {: style="text-align: left"}
+
+<!--> {: style="text-align: left"}-->
 
 My goal with this book is to show my children (who can also be considered a remnant of the House of Israel) what great things the Lord has done for their fathers. As children of Israel, whether by adoption or by blood, it is a great comfort for us to know that we are not cast off forever. The Lord has blessed our father Jacob and given him a new name, a place with Isaac and Abraham in the kingdom of heaven. He, the God of Abraham, will forever bless his servants. Because of the assurance of the promises he made to our fathers, due to their great faith and fidelity to the gospel of the Lamb, we can trust in the covenants of the Lord to our fathers.
 
