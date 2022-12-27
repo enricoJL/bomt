@@ -5,8 +5,9 @@ date: 2022-12-26
 layout: post
 ---
 
-***Likening the title page and the introduction of the Book of Mormon  
-An exemple of what you will find in this book***
+***Likening the title page and the introduction of the Book of Mormon***
+  
+*An exemple of what you will find in this book*
 
 
 ## Title Page of the Book of Mormon
@@ -15,7 +16,7 @@ An exemple of what you will find in this book***
 > AN ACCOUNT WRITTEN BY  
 > THE HAND OF MORMON  
 > UPON PLATES TAKEN FROM THE PLATES OF NEPHI
-> {: style="text-align: center"}
+{: style="text-align: center"}
 
 Like I said earlier, you will find that this book contains a very personal testimony. That is why I call it the *Book of My Testimony*. I wrote it with my own hands. Moroni, who wrote the title page of the Book of Mormon, wrote that his father Mormon was the main author of the book, although he added the final pages.
 
@@ -25,9 +26,9 @@ Of course, I don't have the boldness to claim that it is doctrinal for the Churc
 
 While studying the scriptures and at other times in my life, I have received a number of revelations from God. I am not a prophet for the Church and I don't claim to be a special witness, but I am a witness of God. I desire to express my faith openly and loudly. I hope the reader will benefit from this gift of the Spirit as another modern and personal testimony of the great doings of the Almighty.
 
-> Which is to show unto the remnant of the House of Israel what great things the Lord hath done for their fathers; and that they may know the covenants of the Lord, that they are not cast off forever... (second paragraph)
-
-<!--> {: style="text-align: left"}-->
+> Which is to show unto the remnant of the House of Israel what great things the Lord hath done for their fathers; and that they may know the covenants of the Lord, that they are not cast off forever... 
+> (second paragraph)
+{: style="text-align: left"}
 
 My goal with this book is to show my children (who can also be considered a remnant of the House of Israel) what great things the Lord has done for their fathers. As children of Israel, whether by adoption or by blood, it is a great comfort for us to know that we are not cast off forever. The Lord has blessed our father Jacob and given him a new name, a place with Isaac and Abraham in the kingdom of heaven. He, the God of Abraham, will forever bless his servants. Because of the assurance of the promises he made to our fathers, due to their great faith and fidelity to the gospel of the Lamb, we can trust in the covenants of the Lord to our fathers.
 
@@ -36,20 +37,23 @@ We have been given the precious gospel of Christ contained in the Book of Mormon
 My Catholic mother also received a similar promise when reading the Bible. She told me that the Spirit of God told her one day that all of her children would eventually be adopted by the Lord. Through his church, The Church of Jesus Christ of Latter-day Saints, the Almighty God has given me so much to hold onto, has raised me in knowledge and truth, and has given me a hand of principles and directives to guide my life to security and peace. We are not cast off forever. The Good Shepherd is calling us, children of Israel and all the nations of the earth, to gather in the pastures of eternal life.
 
 
-> And also to the convincing of the Jew and Gentile that JESUS is the CHRIST, the ETERNAL GOD, manifesting himself unto all nations... (second paragraph)
-> {: style="text-align: left"}
+> And also to the convincing of the Jew and Gentile that JESUS is the CHRIST, the ETERNAL GOD, manifesting himself unto all nations... 
+> (second paragraph)
+{: style="text-align: left"}
 
 This is the very testimony I received from the Holy Spirit the first time I read the words of Nephi in the Book of Mormon. This prophet, more than any other, helped me understand more clearly who Jesus Christ is and truly convinced me of his divinity. I discovered that Jesus is the Almighty, the Great I Am, the Only Begotten in the flesh, and that he was sacrificed for the benefit of all of us mortals. He deserves to be considered our Lord and Savior. Because of him, I have been healed in my mind and heart through the power of his atonement. I found the strength and inspiration to live righteously and have come closer to the Father. I look forward to being with him in the celestial realm. This book of my testimony adds another witness to the words of the prophets. It may nourish the believer in their search for inspirational thoughts, as it did for me.
 
-> And now, if there are faults they are the mistakes of men; wherefore, condemn not the things of God... (second paragraph)
-> {: style="text-align: left"}
+> And now, if there are faults they are the mistakes of men; wherefore, condemn not the things of God...
+> (second paragraph)
+{: style="text-align: left"}
 
 There are many mistakes in this record that I have made, just as the prophets of old did. Please don't condemn me for them. I try hard to clarify my thoughts and the doctrine I am referring to, but there are many things that I can't express and even more that I don't yet understand. All I really want is to make my personal testimony known to my children and motivate them and others to read the scriptures and believe in God, likening the scriptures to their own lives as the prophets did. These prophets became my friends despite their imperfections.
 
 ## Introduction of the Book of Mormon
 
-> Concerning this record the Prophet Joseph Smith said: "I told the brethren that the Book of Mormon was the most correct of any book on earth, and the keystone of our religion, and a man would get nearer to God by abiding by its precepts, than by any other book." (fifth paragraph)
-> {: style="text-align: left"}
+> Concerning this record the Prophet Joseph Smith said: "I told the brethren that the Book of Mormon was the most correct of any book on earth, and the keystone of our religion, and a man would get nearer to God by abiding by its precepts, than by any other book." 
+> (fifth paragraph)
+{: style="text-align: left"}
 
 I took that statement to heart and began searching for God, and I pushed myself to write down my inspirations on my journey. This adventure of likening the Book of Mormon to myself, especially the two books of Nephi have brought me closer to the Spirit than anything else I had experienced before. So far, I have written thoughts only regarding those two books of Nephi. This is what you will find in the "Book of My Testimony." Those books, as I will show you, contain the fullness of the gospel. I wish I could tell you the same thing about my own book, and that it is the "most correct of any book on earth", but of course I can't because there are so many good and better books. However, I can tell you that I have been true and faithful in writing all of the words it contains.
 
@@ -58,7 +62,7 @@ I took that statement to heart and began searching for God, and I pushed myself 
 ## Testimony of Three Witnesses
 
 > Be it known unto all nations, kindreds, tongues, and people, unto whom this work shall come: That we, through the grace of God the Father, and our Lord Jesus Christ, have seen the plates which contain this record, which is a record of the people of Nephi... And we also know that they have been translated by the gift and power of God, for his voice hath declared it unto us; wherefore we know of a surety that the work is true... And it is marvelous to our eyes... 
-> {: style="text-align: left"}
+{: style="text-align: left"}
 
 I first read this testimony while I was on a trip to Vancouver Island in the summer of 1993, but I wasn't able to pay enough attention to it at the time because my mind was troubled and my heart was heavy. I just couldn't concentrate. But in February 1994, after the missionaries came to my apartment, as I was reading the introduction of this book again, the testimony of these men sank deep in my heart and soul.
 
@@ -71,7 +75,7 @@ I am aware that many, including my close ones, may be very skeptical about the t
 ## Testimony of Eight Witnesses
 
 > Be it known unto all nations, kindreds, tongues, and people, unto whom this work shall come: That Joseph Smith, Jun., the translator of this work, has shown unto us the plates of which hath been spoken, which have the appearance of gold... And we lie not, God bearing witness of it... 
-> {: style="text-align: left"}
+{: style="text-align: left"}
 
 "And we lie not, God bearing witness of it." This is what I also tell people. I am not a liar. What you will find in this book is absolutely true. These are my thoughts, impressions, and beliefs. I cannot lie about them, and I will not. I feel that my salvation depends on the truthfulness of my testimony. I feel a solemn duty to also live my life in accordance with what I have been ordained to teach. Like those men who gave their names, I want to give my name and my life as a witness to this new doctrine that God has restored through the prophet Joseph Smith Jr.
 
@@ -87,8 +91,9 @@ I am satisfied with the witness from God that I received about the Book of Mormo
 > 
 > He said there was a book deposited, written upon gold plates, giving an account of the former inhabitants of this continent, and the source from whence they sprang. He also said that the fulness of the everlasting Gospel was contained in it, as delivered by the Savior to the ancient inhabitants;
 > 
-> Also, that there were two stones in silver bows --- and these stones, fastened to a breastplate, constituted what is called the Urim and Thummim --- deposited with the plates; and the possession and use of these stones were what constituted Seers in ancient or former times; and that God had prepared them for the purpose of translating the book. (3rd, 5th to 7th paragraphs)
-> {: style="text-align: left"}
+> Also, that there were two stones in silver bows --- and these stones, fastened to a breastplate, constituted what is called the Urim and Thummim --- deposited with the plates; and the possession and use of these stones were what constituted Seers in ancient or former times; and that God had prepared them for the purpose of translating the book. 
+> (3rd, 5th to 7th paragraphs)
+{: style="text-align: left"}
 
 An angel of light came down from heaven to give directives and knowledge to a young man, commanding him in the name of God to do a marvelous work for the good of the children of men. He was to translate, by the power of God, an ancient record carved on gold plates hidden in a stone box covered with dirt. This is how the *Book of Mormon* was brought to us, by the appearance of a man from heaven to a man on earth, with the holy one guiding the other. Do we really believe that such things could happen to us? Since I heard that story, I sought out those kinds of events in my life.
 
