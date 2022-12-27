@@ -20,6 +20,4 @@ The expression "likening the Book of Mormon" describes the process of comparing 
 </center>
 
 
-&copy; Copyright 2023 Enrico J. Lévesque.
-
 
