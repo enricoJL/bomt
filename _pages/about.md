@@ -5,6 +5,23 @@ date: 2022-12-26
 layout: post
 ---
 
+<center>
+	<img src="{{site.baseurl}}/assets/first_principles.png" width="33%">
+</center>
+
+## About the cover image
+
+The cover image represents the first principles and ordinances of the gospel of Jesus Christ: 
+
+1. Faith in Jesus Christ
+2. Repentence
+3. Baptism by immersion for the remission of sin
+4. Laying on of hands for the gift of the Holy Ghost, or the baptism of fire
+
+The sun represents the Almighty God, our Lord and Savior, who gives life and light to everything. He is the author and finisher of our faith. The arrow going backward, downward, and then forward carries the idea of taking a step back to reflect on our own actions in humility, and then moving forward for the better. The repentance symbol is used again for baptism, as one goes down in water in the name of Christ to witness to God that he will keep his commandments. You can see these three symbols in the last one for the gift of the Holy Ghost: as a person perseveres in exercising faith in Christ, repenting always, and keeping his covenants, the Spirit of God transforms the person so that he or she starts to resemble our Maker and shine with divine attributes. This is the path to eternal life, which is the true gospel of Jesus Christ; only when we receive eternal life will we fully become like our Father, the Sun God.
+
+My companion and I created these symbols while we were teaching the Gospel to people as missionaries for the Church of Jesus Christ of Latter-day Saints. I have shown them later to missionaries in Quebec, and the baptism symbol in particular gained some popularity, even a pin was made out of it in the Montreal Quebec Mission.
+
 ## A little about myself
 
 My name is Enrico J. Lévesque. I'm a member of The Church of Jesus Christ of Latter-Day Saints. I first met a member of the church when I was 21 years old while visiting Victoria, British Columbia. That's when I heard the story of Joseph Smith for the first time. I later met the missionaries of the church in Montreal and began studying with them. After some time, I desired to be baptized to receive the remission of my sins and become a better man, a disciple of Christ.
