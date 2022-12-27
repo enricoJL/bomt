@@ -39,7 +39,7 @@ This book is a testimony of truth. I share how I came to believe in the existenc
 
 Part II of The Book of My Testimony will be about the second book of Nephi. These two books, the first and second books of Nephi, contain the fullness of the gospel of Christ and a clear explanation of the purposes of God. I surely hope that my comments will also help the reader understand the ways of the Lord.
 
-The prophet Nephi wrote: 'for I did liken all scriptures unto us, that it might be for our profit and learning' (1 Nephi 19:23). I wrote my words keeping this verse in mind, trying to liken each principle and point of doctrine to myself. It has been a great experience to seek what in my own life could resemble the experiences of the prophet Nephi and his family. The things I have written please my heart and help me feel the Holy Spirit of God. I hope they will have the same effect on you.
+The prophet Nephi wrote: 'for I did liken all scriptures unto us, that it might be for our profit and learning' ([1 Nephi 19:23](https://www.churchofjesuschrist.org/study/scriptures/bofm/1-ne/19?lang=eng&id=23#p22)). I wrote my words keeping this verse in mind, trying to liken each principle and point of doctrine to myself. It has been a great experience to seek what in my own life could resemble the experiences of the prophet Nephi and his family. The things I have written please my heart and help me feel the Holy Spirit of God. I hope they will have the same effect on you.
 
 ## How to read this book?
 
@@ -47,7 +47,7 @@ This book is still in progress. What you can see now is what I have written so f
 
 There may be several mistakes and errors since I do my own editing, but please be patient and kind enough to point them out to me. Your comments are more than welcome.
 
-You may want to read this book alongside the Book of Mormon, but it is not absolutely necessary to do so because I quote all the words from the scriptures that you need to understand the context in this book.
+You may want to read this book alongside the [Book of Mormon](https://www.churchofjesuschrist.org/study/scriptures/bofm?lang=eng), but it is not absolutely necessary because I quote in this book all the words from the scriptures that you need to understand the context.
 
 The *Book of My Testimony* is divided into two parts. Each chapter corresponds to a chapter in the Book of Mormon and each section of those chapters corresponds to a verse. The first chapter of Part I corresponds to the first chapter of the first book of Nephi and so forth. Part II will correspond to the second book of Nephi. For each verse, I share how I apply the words and principles to my life. I share my understanding of what I read and my personal testimony of the truths that I have experienced myself. I share true stories related loosely to the scriptures. Some stories take more than one section, so if you feel you missed something, try reading the sections before the one you are reading to see if you can reach the beginning of the story.
 
