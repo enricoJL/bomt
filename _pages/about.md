@@ -15,7 +15,7 @@ The image cover represents the first principles and ordinances of the gospel of 
 
 1. Faith in Jesus Christ
 2. Repentence
-3. Baptism by immersion for the remission of sin
+3. Baptism by immersion for the remission of sins
 4. Laying on of hands for the gift of the Holy Ghost, or the baptism of fire
 
 The sun represents the Almighty God, our Lord and Savior, who gives life and light to everything. He is the author and finisher of our faith. The arrow going backward, downward, and then forward carries the idea of taking a step back to reflect on our own actions in humility, and then moving forward for the better. The repentance symbol is used again for baptism, as one goes down in water in the name of Christ to witness to God that he will keep his commandments. You can see these three symbols in the last one for the gift of the Holy Ghost: as a person perseveres in exercising faith in Christ, repenting always, and keeping his covenants, the Spirit of God transforms the person so that he or she starts to resemble our Maker and shine with divine attributes. This is the path to eternal life, which is the true gospel of Jesus Christ; only when we receive eternal life will we fully become like our Father, the Sun God.
