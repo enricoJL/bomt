@@ -6,12 +6,12 @@ layout: post
 ---
 
 <center>
-	<img src="{{site.baseurl}}/assets/first_principles.png" width="33%">
+	<img src="{{site.baseurl}}/assets/book_cover.png" width="33%">
 </center>
 
-## About the cover image
+## About the image cover
 
-The cover image represents the first principles and ordinances of the gospel of Jesus Christ: 
+The image cover represents the first principles and ordinances of the gospel of Jesus Christ: 
 
 1. Faith in Jesus Christ
 2. Repentence

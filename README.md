@@ -11,7 +11,7 @@ permalink: /
 
 	<p><b><i>A testimony of the things the Almighty God has done in my life</i></b></p>
 
-	<img src="{{site.baseurl}}/assets/first_principles.png" width="33%">
+	<img src="{{site.baseurl}}/assets/book_cover.png" width="33%">
 </center>
 
 *Likening the Book of Mormon to my own life experiences*
