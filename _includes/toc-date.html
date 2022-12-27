@@ -18,12 +18,13 @@
             </li>
 
             <li class="divider"></li>
-
+            
             {% for collection in site.collections %}
-                <!-- <p>{{ collection.label }}</p> -->
+                <!--<p>{{ collection.label }}</p>-->
                 {% if collection.output %}
                     {% if collection.label == "posts" %}
                         {% assign reversed_posts = site[collection.label] | reverse %}
+                        &nbsp;&nbsp;<i>Part I: Linkening the first book of Nephi</i></br>
                     {% else %}
                         {% assign reversed_posts = site[collection.label] %}
                     {% endif %}
@@ -51,11 +52,9 @@
                 {% endif %}
             {% endfor %}
 
-            <!--<li>
-                <a href="https://github.com/sighingnow/jekyll-gitbook/fork" target="blank" class="gitbook-link">
-                    Fork it Now!
-                </a>
-            </li>-->
+            <li>
+                &nbsp;&nbsp;<i>Part II: Likening the second book of Nephi</i></br>
+            </li>
         </ul>
     </nav>
 </div>
