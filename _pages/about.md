@@ -6,7 +6,7 @@ layout: post
 ---
 
 <center>
-	<img src="{{site.baseurl}}/assets/book_cover.png" width="33%">
+	<img src="{{site.baseurl}}/assets/book_cover.png" width="40%">
 </center>
 
 ## About the image cover
