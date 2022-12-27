@@ -1,7 +1,7 @@
 <meta charset="UTF-8">
 <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
-{%- if page.title -%}
+{%- if page.title and page.layout != "home" -%}
     <title>{{ page.title | escape }} · {{ site.title | escape }}</title>
 {%- else -%}
     <title>{{ site.title | escape }}</title>
