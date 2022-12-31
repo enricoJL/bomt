@@ -18,7 +18,7 @@ layout: post
 > UPON PLATES TAKEN FROM THE PLATES OF NEPHI  
 {: style="text-align: center"}
 
-Like I said earlier, you will find that this book contains a very personal testimony. That is why I call it the *Book of My Testimony*. I wrote it with my own hands. Moroni, who wrote the title page of the Book of Mormon, wrote that his father Mormon was the main author of the book, although he added the final pages.
+You will find that this book contains a very personal testimony. That is why I call it the *Book of My Testimony*. I wrote it with my own hands. Moroni, who wrote the title page of the Book of Mormon, wrote that his father Mormon was the main author of the book, although he added the final pages.
 
 Moroni states in the first paragraph of his title page that the *Book of Mormon* was "written by way of commandment, and also by the spirit of prophecy and of revelation" ([first paragraph](https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title?lang=eng&id=1)). Similarly, I felt impressed by the Spirit to begin writing this book. I started it while I was serving as a missionary in Post Falls, Idaho and continued in the years following. This account that I wrote is a true personal revelation from God.
 
@@ -33,7 +33,7 @@ My goal with this book is to show my children (who can also be considered a remn
 
 We have been given the precious gospel of Christ contained in the Book of Mormon and many other books such as the Bible in our day. We can trust with all our heart, mind, and soul that the Living God never gives up and that his promises are sure. The Book of Mormon is a testimony of that. I have also been promised great things by the mouth of his servants. I have been promised that my children will be raised in knowledge and truth, in wisdom and spirit, and the Spirit once told me that they will always be protected by the hand of the Lord. These promises to me are as precious as my own life.
 
-My Catholic mother also received a similar promise when reading the Bible. She told me that the Spirit of God told her one day that all of her children would eventually be adopted by the Lord. Through his church, The Church of Jesus Christ of Latter-day Saints, the Almighty God has given me so much to hold onto, has raised me in knowledge and truth, and has given me a hand of principles and directives to guide my life to security and peace. We are not cast off forever. The Good Shepherd is calling us, children of Israel and all the nations of the earth, to gather in the pastures of eternal life.
+My Catholic mother also received a similar promise when reading the Bible. She told me that the Spirit of God told her one day that all of her children would eventually be adopted by the Lord. Through his church, The Church of Jesus Christ of Latter-Day Saints, the Almighty God has given me so much to hold onto, has raised me in knowledge and truth, and has given me a hand of principles and directives to guide my life to security and peace. We are not cast off forever. The Good Shepherd is calling us, children of Israel and all the nations of the earth, to gather in the pastures of eternal life.
 
 
 > And also to the convincing of the Jew and Gentile that JESUS is the CHRIST, the ETERNAL GOD, manifesting himself unto all nations... ([second paragraph](https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title?lang=eng&id=2#p2))

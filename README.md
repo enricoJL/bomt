@@ -10,7 +10,7 @@ permalink: /
 <center>
 
 	<p><b><i>A testimony of the things the Almighty God has done in my life</i></b></p>
-	<p><i>Likening the Book of Mormon to my own life experiences</i></p>
+	<p><i>Likening the Book of Mormon to my own experiences</i></p>
 
 	<img src="{{site.baseurl}}/assets/book_cover.png" width="40%">
 </center>

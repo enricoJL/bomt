@@ -20,7 +20,7 @@ The image cover represents the first principles and ordinances of the gospel of 
 
 The sun represents the Almighty God, our Lord and Savior, who gives life and light to everything. He is the author and finisher of our faith. The arrow of repentance represents a change of ways (like a U-turn). It is used for the baptism symbol, as one goes down in the water of baptism to witness to God that he or she will keep his commandments. The baptism symbol is the foundation for the gift of the Holy Ghost, which is also called the baptism of fire. The fire of the Holy Ghost makes the follower of Christ shine like his Master. As a person perseveres in exercising faith in Christ, repenting always, and keeping his covenants, the Spirit of God transforms the person so that he or she starts to shine with divine attributes. This is the path to eternal life, which is the true gospel of Jesus Christ. 
 
-My companion and I created these symbols while we were teaching the gospel as missionaries for the Church of Jesus Christ of Latter-day Saints. I have shown them later to missionaries in Quebec. The baptism symbol in particular gained some popularity, even a pin was made out of it in the Montreal Quebec Mission.
+My companion and I created these symbols while we were teaching the gospel as missionaries for the Church of Jesus Christ of Latter-Day Saints. I have shown them later to missionaries in Quebec. The baptism symbol in particular gained some popularity, even a pin was made out of it in the Montreal Quebec Mission.
 
 ## A little about myself
 
