@@ -3,6 +3,7 @@ title: Introduction
 author: Enrico J. Lévesque
 date: 2022-12-26
 layout: post
+published: true
 ---
 
 ***Likening the title page and the introduction of the Book of Mormon***

@@ -3,6 +3,7 @@ title: About
 author: Enrico J. Lévesque
 date: 2022-12-26
 layout: post
+published: true
 ---
 
 <center>
