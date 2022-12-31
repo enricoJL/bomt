@@ -18,7 +18,7 @@ The image cover represents the first principles and ordinances of the gospel of 
 3. Baptism by immersion for the remission of sins
 4. Laying on of hands for the gift of the Holy Ghost
 
-The sun represents the Almighty God, our Lord and Savior, who gives life and light to everything. He is the author and finisher of our faith. The arrow of repentance represents a change of direction (like a U-turn). The repentance symbol is used for baptism, as one goes down in humility into the water of baptism to witness to God that he or she will keep his commandments.  The baptism symbol is used for the gift of the Holy Ghost, which is also called the baptism of fire. The fire of the Holy Ghost makes the follower of Christ shine like his Master. As a person perseveres in exercising faith in Christ, repenting always, and keeping his covenants, the Spirit of God transforms the person so that he or she starts to resemble the Maker and to shine with divine attributes. This is the path to eternal life, which is the true gospel of Jesus Christ. 
+The sun represents the Almighty God, our Lord and Savior, who gives life and light to everything. He is the author and finisher of our faith. The arrow of repentance represents a change of direction (like a U-turn). The repentance symbol is used for baptism, as one goes down in humility into the water of baptism to witness to God that he or she will keep his commandments.  The baptism symbol is used for the gift of the Holy Ghost, which is also called the baptism of fire. The fire of the Holy Ghost makes the follower of Christ shine like his Master. As a person perseveres in exercising faith in Christ, repenting always, and keeping his covenants, the Spirit of God transforms the person so that he or she starts to resemble the Maker and shine with divine attributes. This is the path to eternal life, which is the true gospel of Jesus Christ. 
 
 My companion and I created these symbols while we were teaching the gospel as missionaries for the Church of Jesus Christ of Latter-day Saints. I have shown them later to missionaries in Quebec. The baptism symbol in particular gained some popularity, even a pin was made out of it in the Montreal Quebec Mission.
 
@@ -28,7 +28,7 @@ My name is Enrico J. Lévesque. I'm a member of The Church of Jesus Christ of La
 
 I live in the province of Quebec, Canada, and have lived there all my life, except for two years (1998-2000) when I served in the Spokane Washington Mission, in the United States of America, as a true representative of Jesus Christ.
 
-During my mission, I started writing down my impressions of the Book of Mormon and sharing some experiences from my life that were related to what I read in the scriptures. I continued writing these thoughts for a while after my mission. These impressions, thoughts, and experiences have been a source of spiritual reinforcement for me. I decided to edit this journal and turn it into a book, which I named *The Book of My Testimony*.
+During my mission, I started writing down my impressions of the Book of Mormon. I continued writing these thoughts for a while after my mission. These impressions, thoughts, and experiences have been a source of spiritual reinforcement for me. I decided to edit this journal and turn it into a book, which I named *The Book of My Testimony*.
 
 ## What is contained in this book?
 
