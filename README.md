@@ -4,11 +4,12 @@ title: The Book of My Testimony
 permalink: /
 ---
 
+## By Enrico J. Lévesque
+
 <!--
 <img align="right" src="{{site.baseurl}}/assets/first_principles.png" width="33%">
 -->
 <center>
-
 	<p><b><i>A testimony of the things the Almighty God has done in my life</i></b></p>
 	<p><i>Likening the Book of Mormon to my own experiences</i></p>
 
