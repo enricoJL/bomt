@@ -6,11 +6,11 @@ layout: post
 published: true
 ---
 
+## About the image cover
+
 <center>
 	<img src="{{site.baseurl}}/assets/book_cover.png" width="40%">
 </center>
-
-## About the image cover
 
 The image cover represents the first principles and ordinances of the gospel of Jesus Christ ([Articles of Faith 1:4](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=4#p3)): 
 
@@ -48,5 +48,5 @@ The *Book of My Testimony* is divided into two parts. Each chapter corresponds t
 
 I try to be as specific and clear as I can for all kinds of readers. Though it may seem to be written for people of my own faith, it is also intended to provide a real-life experience with what I think are universal truths. If you don't like what you read for some reason, feel free to skip that part and go somewhere else, or simply welcome this other view for what it is: another view. But if you like what you read and have some time, please let me know, it's always good to have some feedback.
 
-The books of scriptures I refer to can be found [online](https://www.churchofjesuschrist.org/study/scriptures?lang=eng). I refer to books in the Bible, the Book of Mormon, the Doctrine and Covenants (D&C), and the Pearl of Great Price. 
+The books of scriptures I refer to can be found [online](https://www.churchofjesuschrist.org/study/scriptures?lang=eng). I refer to books in the Bible, the Book of Mormon, the Doctrine and Covenants, and the Pearl of Great Price. 
 
