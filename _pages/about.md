@@ -6,7 +6,7 @@ layout: post
 published: true
 ---
 
-## About the image cover
+## The image cover
 
 <center>
 	<img src="{{site.baseurl}}/assets/book_cover.png" width="40%">
