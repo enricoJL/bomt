@@ -12,7 +12,7 @@ published: true
 	<img src="{{site.baseurl}}/assets/book_cover.png" width="40%">
 </center>
 
-The image cover represents the first principles and ordinances of the gospel of Jesus Christ ([Articles of Faith 1:4](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=4#p3)): 
+This image represents the first principles and ordinances of the gospel of Jesus Christ ([Articles of Faith 1:4](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=4#p3)): 
 
 1. Faith in Jesus Christ
 2. Repentence
