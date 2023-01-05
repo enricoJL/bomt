@@ -12,12 +12,12 @@ published: true
 	<img src="{{site.baseurl}}/assets/book_cover.png">
 </center>
 
-This image represents the first principles and ordinances of the gospel of Jesus Christ ([Articles of Faith 1:4](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=4#p3)): 
+This image represents the first principles and ordinances of the gospel of Jesus Christ: 
 
 1. Faith in Jesus Christ
 2. Repentence
 3. Baptism by immersion for the remission of sins
-4. Laying on of hands for the gift of the Holy Ghost
+4. Laying on of hands for the gift of the Holy Ghost (see [Articles of Faith 1:4](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=4#p3))
 
 The sun represents the Almighty God, our Lord and Savior, who gives life and light to everything. He is the author and finisher of our faith. The arrow of repentance represents a change of ways (like a U-turn). It is used for the baptism symbol, as one goes down in the water of baptism to witness to God that he or she will keep his commandments. The baptism symbol is the foundation for the gift of the Holy Ghost, which is also called the baptism of fire. The fire of the Holy Ghost makes the follower of Christ shine like his Master. As a person perseveres in exercising faith in Christ, repenting always, and keeping his covenants, the Spirit of God transforms the person so that he or she starts to shine with divine attributes. This is the path to eternal life, which is the true gospel of Jesus Christ. 
 
