@@ -9,7 +9,7 @@ published: true
 ## The image cover
 
 <center>
-	<img src="{{site.baseurl}}/assets/book_cover.png" width="40%">
+	<img src="{{site.baseurl}}/assets/book_cover.png">
 </center>
 
 This image represents the first principles and ordinances of the gospel of Jesus Christ ([Articles of Faith 1:4](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=4#p3)): 
