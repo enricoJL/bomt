@@ -24,7 +24,7 @@
                 {% if collection.output %}
                     {% if collection.label == "posts" %}
                         {% assign reversed_posts = site.categories.part1 | reverse %}
-                        &nbsp;&nbsp;<i>Part I: Likening the first book of Nephi</i></br>
+                        <p>&nbsp;&nbsp;&nbsp;<i>Part I: Likening the first book of Nephi</i></p>
                     {% else %}
                         {% assign reversed_posts = site[collection.label] %}
                     {% endif %}
@@ -53,7 +53,7 @@
             {% endfor %}
 
             <li>
-                &nbsp;&nbsp;<i>Part II: Likening the second book of Nephi</i></br>
+                <p>&nbsp;&nbsp;&nbsp;<i>Part II: Likening the second book of Nephi</i></p>
                 {% assign reversed_posts2 = site.categories.part2 | reverse %}
 	            {% for post in reversed_posts2 %}
 			        {% if page.url == post.url %}

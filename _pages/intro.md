@@ -6,9 +6,7 @@ layout: post
 published: true
 ---
 
-***Likening the title page and the introduction of the Book of Mormon***
-  
-*An exemple of what you will find in this book*
+***Likening the [title page](https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title?lang=eng) and the [introduction](https://www.churchofjesuschrist.org/study/scriptures/bofm/introduction?lang=eng) of the Book of Mormon***
 
 
 ## Title Page of the Book of Mormon
@@ -21,7 +19,7 @@ published: true
 
 You will find that this book contains a very personal testimony. That is why I call it the *Book of My Testimony*. I wrote it with my own hands. Moroni, who wrote the title page of the Book of Mormon, wrote that his father Mormon was the main author of the book, although he added the final pages.
 
-Moroni states in the first paragraph of his title page that the *Book of Mormon* was "written by way of commandment, and also by the spirit of prophecy and of revelation" ([first paragraph](https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title?lang=eng&id=1)). Similarly, I felt impressed by the Spirit to begin writing this book. I started it while I was serving as a missionary in Post Falls, Idaho and continued in the years following. This account that I wrote is a true personal revelation from God.
+Moroni states in the [first paragraph](https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title?lang=eng&id=1) of his title page that the *Book of Mormon* was "written by way of commandment, and also by the spirit of prophecy and of revelation". Similarly, I felt impressed by the Spirit to begin writing this book. I started it while I was serving as a missionary in Post Falls, Idaho and continued in the years following. This account that I wrote is a true personal revelation from God.
 
 Of course, I don't have the boldness to claim that it is doctrinal for the Church of Jesus Christ of Latter-day Saints, even though it may shed some light on our beliefs and help us understand and have greater faith in the doings of God.
 
