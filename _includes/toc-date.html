@@ -12,68 +12,81 @@
             {% else %}
             <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}">
             {% endif %}
-                <a href="{{site.baseurl}}/">
-                    {{ site.title | escape }}
-                </a>
+		        <a href="{{site.baseurl}}/">
+		            {{ site.title | escape }}
+		        </a>
             </li>
 
             <li class="divider"></li>
             
-            {% for collection in site.collections %}
-                <!--<p>{{ collection.label }}</p>-->
-                {% if collection.output %}
-                    {% if collection.label == "posts" %}
-                        {% assign reversed_posts = site.categories.part1 | reverse %}
-                        <p>&nbsp;&nbsp;&nbsp;<i>Part I: Likening the first book of Nephi</i></p>
-                    {% else %}
-                        {% assign reversed_posts = site[collection.label] %}
-                    {% endif %}
-
-                    {% for post in reversed_posts %}
-                        {% if page.url == post.url %}
-                        <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
-                        {% else %}
-                        <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
-                        {% endif %}
-                            <a href="{{site.baseurl}}{{post.url}}">
-                                {{ post.title | escape }}
-                            </a>
-                            {% if site.toc.enabled %}
-                                {% if page.url == post.url %}
-                                    {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
-                                {% endif %}
-                            {% endif %}
-                        </li>
-                    {% endfor %}
-
-                    {% if reversed_posts.size > 0 %}
-                        <li class="divider"></li>
-                    {% endif %}
-                {% endif %}
-            {% endfor %}
-
-            <li>
-                <p>&nbsp;&nbsp;&nbsp;<i>Part II: Likening the second book of Nephi</i></p>
-                {% assign reversed_posts2 = site.categories.part2 | reverse %}
-	            {% for post in reversed_posts2 %}
-			        {% if page.url == post.url %}
-			        <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
-			        {% else %}
-			        <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
-			        {% endif %}
-			            <a href="{{site.baseurl}}{{post.url}}">
-			                {{ post.title | escape }}
-			            </a>
-			            {% if site.toc.enabled %}
-			                {% if page.url == post.url %}
-			                    {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
-			                {% endif %}
-			            {% endif %}
-			        </li>
-			   {% endfor %}
+	        {% assign reversed_posts = site['pages'] %}
+	        {% for post in reversed_posts %}
+	            {% if page.url == post.url %}
+	            <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+	            {% else %}
+	            <li class="chapter" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+	            {% endif %}
+	                <a href="{{site.baseurl}}{{post.url}}">
+	                    {{ post.title | escape }}
+	                </a>
+	                {% if site.toc.enabled %}
+	                    {% if page.url == post.url %}
+	                        {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+	                    {% endif %}
+	                {% endif %}
+	            </li>
+	        {% endfor %}
+            <li class="divider"></li>
             
-            	<li class="divider"></li>
-            </li>
+            {% assign reversed_posts = site.categories.part1 | reverse %}
+            <li class="section" id="part1" data-path="{{site.baseurl}}{{reversed_posts.first.url}}">
+		    <a href="{{site.baseurl}}{{reversed_posts.first.url}}"><i>Part I: Likening the first book of Nephi</i></a>
+		    {% for post in reversed_posts %}
+				{% if page.categories.first == 'part1' %}
+					
+					{% if page.url == post.url %}
+					<li class="chapter active" data-parent="part1" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+					{% else %}
+					<li class="chapter" data-parent="part1" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+					{% endif %}
+						<a href="{{site.baseurl}}{{post.url}}">
+						    {{ post.title | escape }}
+						</a>
+						{% if site.toc.enabled %}
+						    {% if page.url == post.url %}
+						        {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+						    {% endif %}
+						{% endif %}
+					</li>
+				{% endif %}
+			{% endfor %}
+		    </li>
+        	<li class="divider"></li>      	
+
+            {% assign reversed_posts = site.categories.part2 | reverse %}
+            <li class="section" id="part1" data-path="{{site.baseurl}}{{reversed_posts.first.url}}">
+		    <a href="{{site.baseurl}}{{reversed_posts.first.url}}"><i>Part II: Likening the second book of Nephi</i></a>
+		    {% for post in reversed_posts %}
+				{% if page.categories.first == 'part2' %}
+					{% if page.url == post.url %}
+					<li class="chapter active" data-parent="part1" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+					{% else %}
+					<li class="chapter" data-parent="part1" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+					{% endif %}
+						<a href="{{site.baseurl}}{{post.url}}">
+						    {{ post.title | escape }}
+						</a>
+						{% if site.toc.enabled %}
+						    {% if page.url == post.url %}
+						        {% include toc.html html=content h_min=site.toc.h_min h_max=site.toc.h_max %}
+						    {% endif %}
+						{% endif %}
+					</li>
+				{% endif %}
+			{% endfor %}
+		    </li>
+        	<li class="divider"></li>      	
+
         </ul>
     </nav>
 </div>
