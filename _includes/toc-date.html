@@ -19,8 +19,8 @@
 
             <li class="divider"></li>
             
-	        {% assign reversed_posts = site['pages'] %}
-	        {% for post in reversed_posts %}
+	        {% assign menu_items = site['pages'] %}
+	        {% for post in menu_items %}
 	            {% if page.url == post.url %}
 	            <li class="chapter active" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
 	            {% else %}
@@ -40,8 +40,8 @@
             
             <li class="section" id="part1" data-path="{{site.baseurl}}{{site.categories.part1_title.first.url}}">
 		    <a href="{{site.baseurl}}{{site.categories.part1_title.first.url}}"><i>Part I: Likening the first book of Nephi</i></a>
-            {% assign reversed_posts = site.categories.part1 | reverse %}
-		    {% for post in reversed_posts %}
+            {% assign menu_items = site.categories.part1 | reverse %}
+		    {% for post in menu_items %}
 				{% if page.categories.first == 'part1' or page.categories.first == 'part1_title' %}
 					
 					{% if page.url == post.url %}
@@ -65,8 +65,8 @@
 
             <li class="section" id="part1" data-path="{{site.baseurl}}{{site.categories.part2_title.first.url}}">
 		    <a href="{{site.baseurl}}{{site.categories.part2_title.first.url}}"><i>Part II: Likening the second book of Nephi</i></a>
-            {% assign reversed_posts = site.categories.part2 | reverse %}
-		    {% for post in reversed_posts %}
+            {% assign menu_items = site.categories.part2 | reverse %}
+		    {% for post in menu_items %}
 				{% if page.categories.first == 'part2' or page.categories.first == 'part2_title' %}
 					{% if page.url == post.url %}
 					<li class="chapter active" data-parent="part1" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
