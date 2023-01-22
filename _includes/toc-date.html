@@ -38,11 +38,11 @@
 	        {% endfor %}
             <li class="divider"></li>
             
+            <li class="section" id="part1" data-path="{{site.baseurl}}{{site.categories.part1_title.first.url}}">
+		    <a href="{{site.baseurl}}{{site.categories.part1_title.first.url}}"><i>Part I: Likening the first book of Nephi</i></a>
             {% assign reversed_posts = site.categories.part1 | reverse %}
-            <li class="section" id="part1" data-path="{{site.baseurl}}{{reversed_posts.first.url}}">
-		    <a href="{{site.baseurl}}{{reversed_posts.first.url}}"><i>Part I: Likening the first book of Nephi</i></a>
 		    {% for post in reversed_posts %}
-				{% if page.categories.first == 'part1' %}
+				{% if page.categories.first == 'part1' or page.categories.first == 'part1_title' %}
 					
 					{% if page.url == post.url %}
 					<li class="chapter active" data-parent="part1" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
@@ -63,11 +63,11 @@
 		    </li>
         	<li class="divider"></li>      	
 
+            <li class="section" id="part1" data-path="{{site.baseurl}}{{site.categories.part2_title.first.url}}">
+		    <a href="{{site.baseurl}}{{site.categories.part2_title.first.url}}"><i>Part II: Likening the second book of Nephi</i></a>
             {% assign reversed_posts = site.categories.part2 | reverse %}
-            <li class="section" id="part1" data-path="{{site.baseurl}}{{reversed_posts.first.url}}">
-		    <a href="{{site.baseurl}}{{reversed_posts.first.url}}"><i>Part II: Likening the second book of Nephi</i></a>
 		    {% for post in reversed_posts %}
-				{% if page.categories.first == 'part2' %}
+				{% if page.categories.first == 'part2' or page.categories.first == 'part2_title' %}
 					{% if page.url == post.url %}
 					<li class="chapter active" data-parent="part1" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
 					{% else %}
