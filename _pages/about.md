@@ -25,7 +25,7 @@ My companion and I created these symbols while we were teaching the gospel as mi
 
 ## A little about myself
 
-My name is Enrico J. Lévesque. I'm a disciple of Christ and a member of The Church of Jesus Christ of Latter-Day Saints. I first met a member of the church when I was 21 years old while visiting Victoria, British Columbia. That's when I heard the story of Joseph Smith for the first time. I later met the missionaries of the church in Montreal and began studying with them. After some time, I desired to be baptized to receive the remission of my sins and become a better man, a disciple of Christ.
+I'm a disciple of Christ and a member of The Church of Jesus Christ of Latter-Day Saints. I first met a member of the church when I was 21 years old while visiting Victoria, British Columbia. That's when I heard the story of Joseph Smith for the first time. I later met the missionaries of the church in Montreal and began studying with them. After some time, I desired to be baptized to receive the remission of my sins and become a better man, a disciple of Christ.
 
 I live in the province of Quebec in Canada, and have lived there all my life, except for two years (1998-2000) when I served in the Spokane Washington Mission, in the United States of America, as a true representative of Jesus Christ.
 
