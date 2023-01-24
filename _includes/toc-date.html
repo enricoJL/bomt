@@ -63,15 +63,15 @@
 		    </li>
         	<li class="divider"></li>      	
 
-            <li class="section" id="part1" data-path="{{site.baseurl}}{{site.categories.part2_title.first.url}}">
+            <li class="section" id="part2" data-path="{{site.baseurl}}{{site.categories.part2_title.first.url}}">
 		    <a href="{{site.baseurl}}{{site.categories.part2_title.first.url}}"><i>Part II: Likening the second book of Nephi</i></a>
             {% assign menu_items = site.categories.part2 | reverse %}
 		    {% for post in menu_items %}
 				{% if page.categories.first == 'part2' or page.categories.first == 'part2_title' %}
 					{% if page.url == post.url %}
-					<li class="chapter active" data-parent="part1" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
+					<li class="chapter active" data-parent="part2" data-level="1.2" data-path="{{site.baseurl}}{{post.url}}">
 					{% else %}
-					<li class="chapter" data-parent="part1" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
+					<li class="chapter" data-parent="part2" data-level="1.1" data-path="{{site.baseurl}}{{post.url}}">
 					{% endif %}
 						<a href="{{site.baseurl}}{{post.url}}">
 						    {{ post.title | escape }}
