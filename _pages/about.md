@@ -15,7 +15,7 @@ published: true
 This image represents the first principles and ordinances of the gospel of Jesus Christ: 
 
 1. Faith in Jesus Christ
-2. Repentence
+2. Repentance
 3. Baptism by immersion for the remission of sins
 4. Laying on of hands for the gift of the Holy Ghost (see [Articles of Faith 1:4](https://www.churchofjesuschrist.org/study/scriptures/pgp/a-of-f/1?lang=eng&id=4#p3))
 
