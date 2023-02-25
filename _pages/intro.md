@@ -17,7 +17,7 @@ published: true
 > UPON PLATES TAKEN FROM THE PLATES OF NEPHI  
 {: style="text-align: center"}
 
-You will find that this book contains a very personal testimony. That is why I call it the *Book of My Testimony*. I wrote it with my own hands. Moroni, who wrote the title page of the Book of Mormon, wrote that his father Mormon was the main author of the book, although he added the final pages.
+You will find that this book contains a very personal testimony. I wrote it with my own hands. Moroni, who wrote the title page of the Book of Mormon, wrote that his father Mormon was the main author of the book, although he added the final pages.
 
 Moroni states in the [first paragraph](https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title?lang=eng&id=1) of his title page that the *Book of Mormon* was "written by way of commandment, and also by the spirit of prophecy and of revelation". Similarly, I felt impressed by the Spirit to begin writing this book. I started it while I was serving as a missionary in Post Falls, Idaho and continued in the years following. This account that I wrote is a true personal revelation from God.
 
@@ -59,7 +59,7 @@ I first read this testimony while I was on a trip to Vancouver Island in the sum
 
 At first, I was skeptical about this story of men seeing angels, but when I read this honest testimony and learned that God himself talked to them, it gave me confidence. Even if I couldn't believe at the time that God could really talk to a man in the same way that a human voice can be heard with our ears, at least I trusted the honesty of those men. I knew they were telling the truth and were not lying. Even if I couldn't literally believe everything they were saying, their testimony and the impression it left on my mind gave me enough assurance to begin reading the book and find out for myself if it could be true. I found the record of the Book of Mormon to be good for my soul, and later, the Holy Ghost gave me a sure knowledge of its truth.
 
-I hope it will be the same for you as you read the pages of this book. It contains many experiences and also very personal thoughts. The Lord has talked to me and his Holy Spirit has given me many insights on various matters. I understand these things are very sacred, but I write them so that they may never be forgotten, either by myself or my children or others. 
+I hope it will be the same for you as you read the pages of this book. It contains many experiences and also very personal thoughts. The Lord has talked to me and his Holy Spirit has given me many insights on various matters. I understand these things are very sacred, but I write them so that they may never be forgotten, either by myself or my children or others.
 
 I am aware that many, including my close ones, may be very skeptical about the things I write, just as I was about the testimony of those three witnesses. However, I can assure you that I have been very careful to give a scrupulous account of my spiritual experiences as they came to me, doing my best to not distort anything and to be as clear and precise as words can be.
 
@@ -76,16 +76,14 @@ I am satisfied with the witness from God that I received about the Book of Mormo
 ## Testimony of the Prophet Joseph Smith
 
 > While I was thus in the act of calling upon God, I discovered a light appearing in my room, which continued to increase until the room was lighter than at noonday, when immediately a personage appeared at my bedside, standing in the air, for his feet did not touch the floor...
-> 
+>
 > He called me by name, and said unto me that he was a messenger sent from the presence of God to me, and that his name was Moroni; that God had a work for me to do...
-> 
+>
 > He said there was a book deposited, written upon gold plates, giving an account of the former inhabitants of this continent, and the source from whence they sprang. He also said that the fulness of the everlasting Gospel was contained in it, as delivered by the Savior to the ancient inhabitants;
-> 
+>
 > Also, that there were two stones in silver bows --- and these stones, fastened to a breastplate, constituted what is called the Urim and Thummim --- deposited with the plates; and the possession and use of these stones were what constituted Seers in ancient or former times; and that God had prepared them for the purpose of translating the book.
 > ([3rd, 6th to 8th paragraphs](https://www.churchofjesuschrist.org/study/scriptures/bofm/js?lang=eng&id=3,6-8))
 
 An angel of light came down from heaven to give directives and knowledge to a young man, commanding him in the name of God to do a marvelous work for the good of the children of men. He was to translate, by the power of God, an ancient record carved on gold plates hidden in a stone box covered with dirt. This is how the *Book of Mormon* was brought to us, by the appearance of a man from heaven to a man on earth, with the holy one guiding the other. Do we really believe that such things could happen to us? Since I heard that story, I sought out those kinds of events in my life.
 
 Well, let me tell you right away that I never saw an angel with my eyes, and I never received a commandment firsthand from any being coming down from heaven. This *Book of My Testimony* has been on my mind for many years, written and hidden in a cardboard box, where I had put the first drafts, like the Book of Mormon was hidden in a stone box by Moroni, except that it wasn't kept for as many years. No messenger from heaven came to command me to write this book, but the Spirit of God pushed me to write my experiences and convinced me that it could be of any worth.
-
-
