@@ -17,7 +17,7 @@ published: true
 > UPON PLATES TAKEN FROM THE PLATES OF NEPHI  
 {: style="text-align: center"}
 
-You will find that this book contains a very personal testimony. I wrote it with my own hands, like Mormon did.
+This book contains a very personal testimony. I wrote it with my own hands, like Mormon did.
 
 Moroni states in the [first paragraph](https://www.churchofjesuschrist.org/study/scriptures/bofm/bofm-title?lang=eng&id=1) of his title page that the *Book of Mormon* was "written by way of commandment, and also by the spirit of prophecy and of revelation." Similarly, I felt impressed by the Spirit to begin writing this book. I started it while I was serving as a missionary in Post Falls, Idaho and continued in the years following.
 
