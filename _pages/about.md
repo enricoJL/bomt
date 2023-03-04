@@ -1,7 +1,7 @@
 ---
 title: About
 author: Enrico J. Lévesque
-date: 2022-12-26
+date: 2022-12-19
 layout: post
 published: true
 ---
