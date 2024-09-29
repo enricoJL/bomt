@@ -3,7 +3,7 @@
                 "facebook": true,
                 "facebook_link": "https://facebook.com",
                 "google": false,
-                "github": true,
+                "github": false,
                 "github_link": "https://github.com",
                 "telegram": false,
                 "telegram_link": "https://t.me",
